@@ -1,0 +1,7 @@
+
+/nbproject/private/
+nbproject/project.properties
+nbproject/project.xml
+caches/sessions/**
+caches/sessions/*
+caches/sessions/*.*
